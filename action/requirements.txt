@@ -1,0 +1,7 @@
+requests
+openai
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
